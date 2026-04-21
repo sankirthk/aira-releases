@@ -9,7 +9,7 @@
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sankirthk/aira-releases/releases/download/v1.0.0-beta.1/Aira-1.0.0-beta.1.zip" length="13375448" type="application/octet-stream" sparkle:edSignature="YChPGiiUf7s5BtWGOcRSjIxabjsScMXs3qNPh38hdmD9b3gRzaK2XepzQQ+1sJIRNT2QJKCjG3Xq7QYXGYReDg=="/>
+            <enclosure url="https://github.com/sankirthk/aira-releases/releases/download/v1.0.0-beta.2/Aira-1.0.0-beta.2.zip" length="13649085" type="application/octet-stream" sparkle:edSignature="RmrCRPWrPkoUY2Hp1WJ5z/Zn5lB6vNIXSJrOBLxOv9q9mcjLw5DJTjzXqEE89L2n+mRlw0+cBC+n7FzHhn8ICQ=="/>
         </item>
     </channel>
 </rss>
