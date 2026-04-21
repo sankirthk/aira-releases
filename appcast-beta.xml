@@ -4,6 +4,15 @@
         <title>Aira</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Tue, 21 Apr 2026 04:52:39 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/sankirthk/aira-releases/releases/tag/v1.0.0-beta.4</sparkle:fullReleaseNotesLink>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sankirthk/aira-releases/releases/download/v1.0.0-beta.4/Aira-1.0.0-beta.4.zip" length="13648754" type="application/octet-stream" sparkle:edSignature="y0RGK1LD33QEjbRWe+qaBO9/LL6nzxIb96w7qLVo4FbiM4QtFccf2dHdILy5E42hrNxgkW/dOaEJG7ZGWmMQAQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Tue, 21 Apr 2026 02:46:47 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/sankirthk/aira-releases/releases/tag/v1.0.0-beta.3</sparkle:fullReleaseNotesLink>
             <sparkle:version>21</sparkle:version>
