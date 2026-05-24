@@ -3,6 +3,15 @@
     <channel>
         <title>Aira</title>
         <item>
+            <title>1.1.4</title>
+            <pubDate>Sun, 24 May 2026 16:52:54 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/sankirthk/aira-releases/releases/tag/v1.1.4</sparkle:fullReleaseNotesLink>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sankirthk/aira-releases/releases/download/v1.1.4/Aira-1.1.4.zip" length="150369909" type="application/octet-stream" sparkle:edSignature="JUDXaVEUUUCFK9f1dFEa9F+pqaMbiH5dHOcAB3UPY2jLItE0Cid9LjmPoJkJjBYwBrsKtWS1tHtrgFPB4WiOBg=="/>
+        </item>
+        <item>
             <title>1.1.3</title>
             <pubDate>Sat, 23 May 2026 07:44:31 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/sankirthk/aira-releases/releases/tag/v1.1.3</sparkle:fullReleaseNotesLink>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/sankirthk/aira-releases/releases/download/v1.1.2/Aira-1.1.2.zip" length="150358307" type="application/octet-stream" sparkle:edSignature="pHKAaNn/e4atFSFxVTnyzSCGFmGdl1fVbyafZjDfNyb96EvymUA8xVPpnFQih2lXKnSmSqFL0JfWRjUaE5J6CA=="/>
-        </item>
-        <item>
-            <title>1.1.2</title>
-            <pubDate>Sat, 23 May 2026 05:11:32 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/sankirthk/aira-releases/releases/tag/v1.1.2</sparkle:fullReleaseNotesLink>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sankirthk/aira-releases/releases/download/v1.1.2/Aira-1.1.2.zip" length="150361977" type="application/octet-stream" sparkle:edSignature="k7usPx9qrB0AT1tNJiA19OIPz4K17w7BOULVE81EWfhtEbqfVaA+yDYT7BApdJB1mxdgzEURU3AlOKIEAyLKDw=="/>
         </item>
     </channel>
 </rss>
